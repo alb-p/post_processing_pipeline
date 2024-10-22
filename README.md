@@ -2,12 +2,13 @@
 ## Pipeline
 ![pipeline](/images/Experiment_pipeline.jpg)
 ### TODOs
-- [ ] Standardize fairness metrics, i.e.[-1,1]  
-- [ ] Delta improvement for metrics
-- [ ] Add confidence and support to the association rules tables  
 - [ ] Add >50K rules visualization
-- [ ] 
+
 ### Completed ✓
+- [x] Delta improvement for metrics
 - [x] Use csv dataset 
 - [x] Split graphs of classification and fairness metrics
+- [x] Associacion rules discovery at the beginning
+- [x] Add confidence and support to the association rules tables 
+- [x] Standardize fairness metrics, i.e.[-1,1]   
 
