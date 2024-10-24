@@ -2,9 +2,8 @@
 ## Pipeline
 ![pipeline](/images/Experiment_pipeline.jpg)
 ### TODOs
-
-- [ ] [un]Privileged should be set after dataset analysis
-
+- [ ] look for more fairness metrics
+- [ ] update pptx
 
 ### Completed ✓
 - [x] Delta improvement for metrics
@@ -20,3 +19,4 @@
 - [x] Update graphs accordingly
 - [x] Table with support and confidence of association rules from test, test_pred, test_pred_pp
 - [x] Try 60/40 on train/test in order to have >10k tuples on test set
+- [x] [un]Privileged should be set after dataset analysis
