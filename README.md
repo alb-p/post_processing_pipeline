@@ -2,9 +2,8 @@
 ## Pipeline
 ![pipeline](/images/Experiment_pipeline.jpg)
 ### TODOs
-- [ ] Table with support and confidence of association rules from test, test_pred, test_pred_pp
-- [ ] Try 60/40 on train/test in order to have >10k tuples on test set
-- [ ] [un]Privileged should be setted after dataset analysis
+
+- [ ] [un]Privileged should be set after dataset analysis
 
 
 ### Completed ✓
@@ -19,3 +18,5 @@
 - [x] Add >50K rules visualization
 - [x] Association rules extraction from test set
 - [x] Update graphs accordingly
+- [x] Table with support and confidence of association rules from test, test_pred, test_pred_pp
+- [x] Try 60/40 on train/test in order to have >10k tuples on test set
